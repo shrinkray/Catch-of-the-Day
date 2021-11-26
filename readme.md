@@ -8,8 +8,8 @@ A premium step-by-step training course to get you building real world React.js +
 
 A real-time app for a trendy seafood market where price and quantity available are variable and can change at a moment's notice. We will build a menu, an order form, and an inventory management area where authorized users can immediately update product details.
 
-## Install and check my progress
+## Check my progress
 
-1. Download the code from https://github.com/
-2. I the terminal run `npm install`
+1. Download the code
+2. In the terminal run `npm install`
 3. Then, `npm run dev`
