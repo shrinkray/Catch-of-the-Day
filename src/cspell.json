@@ -1,0 +1,23 @@
+// cSpell Settings
+{
+        "version": "0.2",
+        "language": "en",
+        "words": [
+                "mkdirp",
+                "tsmerge",
+                "githubusercontent",
+                "streetsidesoftware",
+                "wesbos",
+                "vsmarketplacebadge",
+                "visualstudio",
+                "cotd",
+                "styl",
+                "browserslist"
+        ],
+        "flagWords": [
+                "hte"
+        ],
+        "ignorePaths": [
+                "node_modules/**"
+        ]
+}
