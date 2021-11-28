@@ -1,4 +1,7 @@
 {
+  "bracketSameLine": true,
+  "bracketSpacing": true,
+  "insertPragma": false,
   "semi": true,
   "singleQuote": true,
   "tabWidth": 2,
